@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-bar-spsi {
+  background-color: #203864;
+  color: aliceblue;
+}
+
+footer {
+  background-color: #203864;
+  color: aliceblue;
+}
+
+.card-titulo {
+  background-color: #203864;
+}
+
+.cuadroTexto {
+  margin-top: 2rem;
+  padding: 1rem 1rem 1rem 1rem;
+  box-shadow: 0 10px 30px -10px black;
+}
+
+.cuadroTexto--titulo {
+  background: #5ec2d4;
+  color: white;
+}
+
+.intro__title {
+  background-color: royalblue;
+  color: white;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+.carousel-indicators li {
+  border-radius: 20%;
+}
+
+/*# sourceMappingURL=style.css.map */
