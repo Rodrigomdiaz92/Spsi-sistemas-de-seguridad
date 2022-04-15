@@ -81,4 +81,11 @@ footer {
   width: 25%;
 }
 
+.servicios img {
+  margin: 30px;
+  width: 50%;
+  border-radius: 30px;
+  border: 1px solid black;
+}
+
 /*# sourceMappingURL=style.css.map */
