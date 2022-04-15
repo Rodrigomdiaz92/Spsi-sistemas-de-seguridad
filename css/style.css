@@ -29,6 +29,12 @@ footer {
   color: aliceblue;
 }
 
+.titulo-principal-web {
+  font-size: 0.7rem;
+  font-weight: bold;
+  color: white;
+}
+
 .card-titulo {
   background-color: #203864;
 }
