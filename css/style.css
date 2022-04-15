@@ -42,6 +42,7 @@ footer {
 .cuadroTexto--titulo {
   background: #5ec2d4;
   color: white;
+  border-radius: 1rem;
 }
 
 .intro__title {
