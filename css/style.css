@@ -4,9 +4,24 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
 .nav-bar-spsi {
   background-color: #203864;
-  color: aliceblue;
+  color: white;
+}
+.nav-bar-spsi a {
+  color: white;
+}
+.nav-bar-spsi a:hover {
+  color: #5fc2d4;
+}
+
+.active {
+  color: #5fc2d4;
+  font-weight: bold;
 }
 
 footer {
@@ -30,14 +45,28 @@ footer {
 }
 
 .intro__title {
-  background-color: royalblue;
+  background-color: #203864;
   color: white;
   border-radius: 1rem;
   text-align: center;
+  padding: 10px;
+  box-shadow: 0 10px 30px -10px black;
 }
 
 .carousel-indicators li {
   border-radius: 20%;
+}
+
+.btn-contacto {
+  background-color: #5fc2d4;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.redes img {
+  margin: 30px;
+  width: 10%;
 }
 
 /*# sourceMappingURL=style.css.map */
