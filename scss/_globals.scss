@@ -78,13 +78,26 @@ footer {
 }
 
 .clientes img {
-  margin: 30px;
+  margin: 10px;
   width: 25%;
+  justify-content: space-around;
+  box-shadow: 0 10px 20px -10px black;
 }
 
 .servicios img {
-  margin: 30px;
+  justify-content: space-around;
+  margin: 3px;
   width: 50%;
-  border-radius: 30px;
-  border: 1px solid black;
+  border-radius: 10px;
+  border: 1px solid #203864;
+  box-shadow: 0 10px 20px -10px black;
+}
+
+#contacto-btn {
+  text-decoration: none;
+  color: white;
+}
+#contacto-btn:hover {
+  text-decoration: none;
+  color: black;
 }
